@@ -1,0 +1,43 @@
+{
+    "items":[
+        {
+            "name": "WixPro 72-Inch Responsive Website Builder",
+            "info": "Comprehensive Digital Platform Creation Tool, Streamlined Design Interface for Professional Websites and Online Stores (Black/Blue)",
+            "description": "Receive the WixPro website builder suite, access to premium design templates, an extensive library of widgets and apps, and detailed step-by-step guides.",
+            "imageLabel": "Builder 1",
+            "rating": 9.8,
+            "remarks": "Exceptional",
+            "badgeRemarks": "Best Choice"
+        },
+        {
+            "name": "SiteCraft 68-Inch Ultimate Web Design Studio",
+            "info": "Advanced Site Creation Toolkit, Intuitive Drag-and-Drop Editor for Dynamic Websites and E-commerce Platforms (Green/White)",
+            "description": " Gain access to the SiteCraft design studio, featuring a robust selection of design elements, SEO optimization tools, and e-commerce integrations.",
+            "imageLabel": "Builder",
+            "rating": 9.5,
+            "remarks": "Excellent",
+            "badgeRemarks": "Best Value"
+        },
+        {
+            "name": "WixPro 72-Inch Responsive Website Builder",
+            "info": " Comprehensive Digital Platform Creation Tool, Streamlined Design Interface for Professional Websites and Online Stores (Black/Blue)",
+            "description": "Receive the WixPro website builder suite, access to premium design templates, an extensive library of widgets and apps, and detailed step-by-step guides.",
+            "imageLabel":"Builder 1",
+            "rating": 9.3,
+            "remarks": "Exceptional"
+        },
+        {
+            "name": "CDK Resposive Builder",
+            "info": "An extensive library of widgets and apps, and detailed step-by-step guides",
+            "discount": "26%",
+            "listedHighlights":{
+                "points": [9.9, 8.9, 8.9],
+                "keys": ["Building Responsive", "Cool", "Docs"]
+            },
+            "imageLabel": "CDK",
+            "rating": 9.1,
+            "remarks": "Very Good",
+            "whyweloveit": ["Documentation", "Easy Use", "Out of box"]
+        }
+    ]
+}
