@@ -5,7 +5,7 @@ import Star from './Star';
 function Item(props) { 
     var keyprop = 0;
   return (
-    <div className='md:w-[70%] mb-14 mx-5 md:mx-0'>
+    <div className='md:w-[70%] mb-14 mx-5 md:mx-0 pb-3' style={{boxShadow: "rgba(0, 0, 0, 0.04) 0px 3px 5px"}}>
         <div className="attributes absolute mt-[-15px]">
             {
                 props.itemdetails.badgeRemarks && 
