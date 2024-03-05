@@ -90,7 +90,7 @@ function Item(props) {
                 </div>
             </div>
             <div className="rating-and-action flex md:flex-col justify-between items-center md:h-[250px] w-full md:w-fit">
-                <div className="rating flex flex-col items-center bg-rrlablue p-3 w-[80%] rounded-b-md">
+                <div className="rating flex flex-col items-center bg-rrlablue p-3 w-[80%] rounded-b-md mx-2">
                     <h2 className='font-font1 text-xl'>{props.itemdetails.rating}</h2>
                     <p className='font-font1 text-sm'>{props.itemdetails.remarks}</p>
                     <span className='flex'>
@@ -102,7 +102,7 @@ function Item(props) {
                         }
                     </span>
                 </div>
-                <div className="view bg-rrlablue1 flex justify-center px-16 py-2 rounded-md cursor-pointer">
+                <div className="view bg-rrlablue1 flex justify-center px-16 py-2 rounded-md cursor-pointer mx-2">
                     <li className='font-font1 list-none text-white text-sm'>View</li>
                 </div>
             </div>
